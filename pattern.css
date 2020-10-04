@@ -1,0 +1,11 @@
+/*.jumbotron{
+	background:url(https://images.unsplash.com/photo-1601652221547-bd12baeeefbb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60); 
+}*/
+
+#header{
+	/*background:url(https://images.unsplash.com/photo-1547414876-def1cc35dcbc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);*/
+	background:url(https://images.unsplash.com/photo-1564667005686-cce951e72bd0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+
+	background-size:cover;
+	background-position:center;
+}
